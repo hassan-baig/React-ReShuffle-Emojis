@@ -1,11 +1,11 @@
 {
-  "name": "blank",
+  "name": "react_reshuffle_emojis",
   "version": "0.0.1",
   "license": "MIT",
   "keywords": [
     "reshuffle",
     "react",
-    "blank",
+    "emojis",
     "start",
     "fullstack"
   ],
